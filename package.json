@@ -1,0 +1,33 @@
+{
+  "name": "gulp-her-cssSprite",
+  "version": "0.0.1",
+  "description": "css sprite,depends gulp-her-kernel",
+  "author": {
+    "name": "huangyi",
+    "email": "ustbhuangyi@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/ustbhuangyi/gulp-her-cssSprite/issues"
+  },
+  "engines": {
+    "node": ">=0.9"
+  },
+  "homepage": "https://github.com/ustbhuangyi/gulp-her-cssSprite/",
+  "keywords": [
+    "gulpplugin",
+    "her",
+    "css",
+    "sprite"
+  ],
+  "licenses": "MIT",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:ustbhuangyi/gulp-her-cssSprite.git"
+  },
+  "dependencies": {
+    "gulp-util": ">=3.0.0 <4.0.0-0",
+    "node-images": "1.5.5",
+    "vinyl": "^0.4.0"
+  }
+}
