@@ -27,7 +27,29 @@
   },
   "dependencies": {
     "gulp-util": ">=3.0.0 <4.0.0-0",
-    "node-images": "1.5.5",
+    "images": "2.1.5",
     "vinyl": "^0.4.0"
-  }
+  },
+  "gitHead": "7ca628042e8d2c5c92ebf9578503bb254566e2d7",
+  "_id": "gulp-her-csssprite@0.0.1",
+  "scripts": {},
+  "_shasum": "aae6b24f896d7833fc266642b7b2d4fa4b376a86",
+  "_from": "gulp-her-csssprite@0.0.1",
+  "_npmVersion": "1.4.28",
+  "_npmUser": {
+    "name": "ustbhuangyi",
+    "email": "ustbhuangyi@gmail.com"
+  },
+  "maintainers": [
+    {
+      "name": "ustbhuangyi",
+      "email": "ustbhuangyi@gmail.com"
+    }
+  ],
+  "dist": {
+    "shasum": "aae6b24f896d7833fc266642b7b2d4fa4b376a86",
+    "tarball": "http://registry.npmjs.org/gulp-her-csssprite/-/gulp-her-csssprite-0.0.1.tgz"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/gulp-her-csssprite/-/gulp-her-csssprite-0.0.1.tgz"
 }
