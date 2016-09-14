@@ -27,7 +27,7 @@
   },
   "dependencies": {
     "gulp-util": ">=3.0.0 <4.0.0-0",
-    "images": "2.1.5",
+    "images": "2.2.0",
     "vinyl": "^0.4.0"
   },
   "gitHead": "7ca628042e8d2c5c92ebf9578503bb254566e2d7",
